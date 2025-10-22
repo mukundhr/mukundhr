@@ -8,11 +8,11 @@
 ## What I'm Working On
 -  AI-powered document analysis systems
 -  Data science and analytics projects  
--  Learning advanced deep learning and MLOps
+-  Learning deep learning and MLOps
 -  Exploring fintech applications of ML
 
 ## Tech Stack
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, SQL, C  
 **ML/AI:** Scikit-learn, Pandas, NumPy, Google Gemini API  
 **Tools:** Streamlit, Git, Jupyter, Google Colab  
 **Currently Learning:** PyTorch, Docker, Cloud Deployment
