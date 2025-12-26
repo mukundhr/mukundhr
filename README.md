@@ -6,7 +6,6 @@
  Building practical AI solutions for real-world problems
 
 ## What I'm Working On
--  AI-powered document analysis systems
 -  Data science and analytics projects  
 -  Learning deep learning and MLOps
 -  Exploring fintech applications of ML
@@ -24,4 +23,4 @@
 
 ## Let's Connect!
  Email: mukundhrreddy@gmail.com
- LinkedIn: [linkedin.com/in/mukundh-r-reddy-b2a332132](https://linkedin.com/in/mukundh-r-reddy-b2a332132)
+ LinkedIn: https://www.linkedin.com/in/mukundh-r-reddy-b2a332132?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
