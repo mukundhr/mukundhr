@@ -1,26 +1,45 @@
-# Hi there!  I'm Mukundh R Reddy
+# Mukundh R Reddy
 
-## About Me
- B.Tech CSE (AI/ML) Student  
- Machine Learning & AI Enthusiast  
- Building practical AI solutions for real-world problems
+B.Tech CSE (AI/ML) · Sai Vidya Institute of Technology, Bangalore · graduating 2027
 
-## What I'm Working On
--  Data science and analytics projects  
--  Learning deep learning and MLOps
--  Exploring fintech applications of ML
+I build systems at the intersection of ML reliability and real-world deployment. My work centers on the gap between what models express as confidence and what they actually know — studying how that gap behaves under distribution shift, adversarial pressure, and physics constraints.
 
-## Tech Stack
-**Languages:** Python, SQL, C  
-**ML/AI:** Scikit-learn, Pandas, NumPy, Google Gemini API  
-**Tools:** Streamlit, Git, Jupyter, Google Colab  
-**Currently Learning:** PyTorch, Docker, Cloud Deployment
+---
 
-## Featured Projects
--  **Healthcare Document AI**: Streamlit app using Gemini API for medical document analysis
--  **Benford's law analysis** - tool to detect potential fraud and anomalies in numerical data using Benford's Law
--  **DataCamp Analytics**: Comprehensive data analysis and insights project
+## Projects
 
-## Let's Connect!
- Email: mukundhrreddy@gmail.com
- LinkedIn: https://www.linkedin.com/in/mukundh-r-reddy-b2a332132?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### ModelGuard
+ML reliability under distribution shift. Discovered an **inversion finding** between model capacity and out-of-distribution reliability  as capacity scales, OOD reliability degrades non-monotonically.  
+Targeting ICML/NeurIPS workshop.  
+`PyTorch` `Distribution Shift` `OOD Generalization`
+
+### JEPA-Lens
+Self-supervised I-JEPA re-implementation on CIFAR-10 from scratch - 52.1% linear probe accuracy, 5× causal degradation on ablation.  
+`Self-Supervised Learning` `I-JEPA` `PyTorch`
+
+### Thread
+Adversarial two-LLM epistemic reasoning engine with computed confidence scores and a live Disagreement Map across parallel reasoning lenses.  
+`LLM Systems` `Adversarial Prompting` `Epistemic Uncertainty`
+
+### AccessAI
+Voice-first multilingual medical report assistant deployed on AWS (EC2 + API Gateway + Amplify, systemd auto-restart). AWS AI for Bharat hackathon.  
+`AWS` `Voice` `Multilingual` `Healthcare`
+
+### AutoLab
+Agentic ML experimentation loop, an LLM proposes experiments, a UCB bandit prioritizes them, a CNN trains and returns results, and the LLM reasons over the evidence to plan the next cycle. Inspired by Karpathy's autoresearch.  
+`Agentic AI` `LLM Planning` `UCB Bandit` `PyTorch`
+
+---
+
+## Stack
+
+**Core:** Python · PyTorch · NumPy · Pandas · Scikit-learn  
+**Infra:** AWS EC2 · API Gateway · Amplify · Git · Jupyter  
+
+---
+
+## Contact
+
+- [mukundh.vercel.app](https://mukundh.vercel.app)
+- mukundhrreddy@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/mukundh-r-reddy-b2a332132)
