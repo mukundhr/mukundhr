@@ -10,7 +10,6 @@ I build systems at the intersection of ML reliability and real-world deployment.
 
 ### ModelGuard
 ML reliability under distribution shift. Discovered an **inversion finding** between model capacity and out-of-distribution reliability  as capacity scales, OOD reliability degrades non-monotonically.  
-Targeting ICML/NeurIPS workshop.  
 `PyTorch` `Distribution Shift` `OOD Generalization`
 
 ### JEPA-Lens
